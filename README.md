@@ -16,6 +16,6 @@ So far, no way.
 # Release date? 
 Not known.
 # Find problems? 
-Write me! \n
-Telegram - https://t.me/SetScript \n
+Write me! <br>
+Telegram - https://t.me/SetScript <br>
 Discord -! SetScript#5647
